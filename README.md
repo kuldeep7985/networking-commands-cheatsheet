@@ -14,6 +14,8 @@ netstat -an           — Show open connections
 
 arp -a                — Show ARP table
 
+ipconfig /renew       — To Renew Your IP
+
 ## Linux Commands  
 ip addr show          — Show IP addresses
 
